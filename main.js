@@ -7,8 +7,8 @@ const feelsLike = document.getElementById("feelsLike");
 const msg = document.getElementById("errorMsg");
 var lat;
 var lon;
-//api key from OpenWeather
-const key = "eb8310fb4222164ed5204fec61de6c8f";
+//api key from OpenWeather: replace with your key
+const key ="***********61de6c8f";
 
 
 //when search term entered/submitted, then...
